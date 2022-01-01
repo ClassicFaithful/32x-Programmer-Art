@@ -90,11 +90,11 @@ john4s13 - Gravel+.
 
 phrstbrn - Font braces spacing fix.
 
-Bufferzz - Quartz*, nether quartz ore*, nether quartz Item*, redstone block*, allium*, and peony*.
+Bufferzz - Quartz*, nether quartz ore*, nether quartz item*, redstone block*, allium*, and peony*.
 
 DuckOfDuckness - Clock.
 
-David184 - Black Cat*.
+David184 - Black cat*.
 
 streak1 - Saddle.
 
