@@ -5,7 +5,7 @@ If you've made any of these textures already and think they are good tell us on 
 
 ------------------
 
-Missing: 100 out of 1959 ~ 94.89% done
+Missing: 92 out of 1959 ~ 94.89% done
 
 ------------------
 
@@ -17,7 +17,6 @@ block/chorus_flower.png
 block/chorus_flower_dead.png
 block/chorus_plant.png
 block/cracked_nether_bricks.png
-block/crying_obsidian.png
 block/end_rod.png
 block/magma.png
 block/observer_back.png
@@ -29,14 +28,6 @@ block/powder_snow.png
 block/purpur_pillar.png
 block/purpur_pillar_top.png
 block/red_nether_bricks.png
-block/respawn_anchor_bottom.png
-block/respawn_anchor_side0.png
-block/respawn_anchor_side1.png
-block/respawn_anchor_side2.png
-block/respawn_anchor_side3.png
-block/respawn_anchor_side4.png
-block/respawn_anchor_top.png
-block/respawn_anchor_top_off.png
 entity/bear/polarbear.png
 entity/bed/black.png
 entity/bed/blue.png
