@@ -1,0 +1,123 @@
+All textures by Evorp or Vattic except the following:
+
+* = this texture was modified by me, but in its original form it resembles the current texture.
+
++ = this texture was tweaked by this person to look better, but it does have a base model by somebody else.
+
+---These contributions were made for the purposes of CF---
+
+ZapPack - Zombie*, skeleton*, stray base*, diamond block, gold block, melon+, stone fixes to all ores, smooth stone+, repeaters+, comparators+, and bedrock+ (and by extension end crystal), snow+, end stone bricks, nether wart block, slowness effect+, hunger effect+, absorption effect, levitation effect, glowing effect, luck effect, unluck effect, health boost effect, beetroot seeds, beetroot soup*, instant damage effect, instant health effect, spectral arrow item, jump boost effect, invisibility effect*, warped fungus on a stick+, lava bucket+, and all command blocks.
+
+Harag0nMC - Totem of undying* and all frosted ice stages.
+
+Zeuselpro - Elytra*.
+
+---These contributions were made for the Jappa pack (Classic Faithful 32x) but are reused here due to them not having a programmer art equivalent.
+
+ZapPack - Tropical fish item, raw salmon, raw cod, cooked cod, cooked salmon, pufferfish item, fish on cod, salmon, and tropical fish buckets, help with sign item recolors, sign models, hero of the village effect, wither rose*, stonecutter bottom, accessibility button*, hotbar offhand slot+, bars, savanna zombie villager variant, checkbox, social interactions menu, recipe book UI+, beacon UI+, 1.14 villager UI, fixing a bunch of other UIs, wool+, advancement widgets+, netherite scrap, graham painting, gamemode switcher, axolotls*, tundra zombie villager+, blue dye, brown dye, and black dye.
+
+FHLX - Blast furnace*, smoker*, all shulkers*, all campfires except the fire, and tundra zombie villager*.
+
+Pythagoras_314 - Basalt side*, basalt top*, soul soil*, lantern+, netherite block*, light item 0+, honey bottle*, and chain model*.
+
+pcblox39 - Stonecutter saw*, campfires* [item], bundle*, salmon mob*, all glazed terracottas*, smithing table*, turtle egg block*, honeycomb block*, bamboo large leaves*, and bamboo stalk*.
+
+Adrien_Sama - Cross icon [realms], cross player icon [realms], and bad omen effect*.
+
+Harag0nMC - Desert zombie villager+, swamp zombie villager+, taiga zombie villager+, and jungle zombie villager+.
+
+Zeuselpro - Strider* and sculk sensor tendrils*.
+
+---These contributions weren't explicitly made for CF but I have permission to use them---
+
+JogurciQ - Honey block, kelp plant, soul fire, trident model, campfire fire, seagrass, tall searass, and all sweet berry bush stages.
+
+KulenFlulen - Conduit wind and dried kelp.
+
+Compliance 32x - All banners, shield banners, ascii font, accented font, nonlatin european font, and rain.
+
+mullak99 - Deepslate coal ore*.
+
+---Contributors under Vattic's time that have either textures or parts of textures in the pack---
+
+* = this texture was modified by Vattic, but in its original form it resembles the current texture
+
+Zombuster - Overworld ores*.
+
+GenuineSounds - Fishing hook and hearts.
+
+Justin8 - Lily pad, and font*.
+
+Sword_Frog - Sandstone bottom, birch log*, spruce sapling, and dead bush.
+
+CrazyErik - Map background.
+
+Gimlao - Help with fonts.
+
+labtec901 - Pack.png background.
+
+DarKKn1ghT111 - Minecraft logo*.
+
+Affinite - Iron bars.
+
+Snowshoe - Snow golem*.
+
+silentsource - End crystal*.
+
+ExileUnlimited - Cocoa bean crop* and cocoa bean item.
+
+SupremX8 - Two of the creative UIs.
+
+carlotta4th - Beacon GUI* and the survival inventory GUI*. 
+
+TheHalaran - Emerald Block*, XP bar, and boss bars.
+
+Arionwt1997 - Emerald item.
+
+some1insweden - Fire charge*.
+
+jecowa - Iron door.
+
+Samuil19/SLembas - Potato*, baked potato*, poisonous potato*, carrot*, golden carrot* pumpkin pie*, flower pot*, smoke particle, splash particle, bubble particle, drop particle, repair pane, leather armor*, diamond armor, witch*, wither painting, eye of Ender+, TNT+, firework particles, firework star*, enchanted book*, christmas chests*, wither*, wither skeleton*, bat, wither armor, hopper GUI, hopper sides*, hopper item, hopper minecart, activator rail, daylight sensor, detector rail ON, dispenser vertical, dropper, lava, nether portal, quartz*, comparator item, compass*, TNT minecart, nether brick item, cave spider, redstone block*, hay bale, all terracottas, coal block, charcoal, horse GUI, podzol, sunflower, Dandelion+, oxeye daisy, poppy, tulips, packed ice, red sand, stream icons, coarse dirt, iron trapdoor, andesite, polished andesite, diorite, banner base, endermite, enchanting GUI, widgets buttons, banner base, barrier, prismarine shard, and slime block+.
+
+King_M7 - Three villager particles.
+
+Ivysaur1996 - Potion effect icons*.
+
+SteelBrother - 1x2 painting, pumpkin+, jack o' lantern+, red mushroom block+, advancement GUI+, horse hearts*, bubble particle+, potion particle+, drip particle+, XP Bar, boss bar, and beetroot*.
+
+john4s13 - Gravel+.
+
+phrstbrn - Font braces spacing fix.
+
+Bufferzz - Quartz*, nether quartz ore*, nether quartz Item*, redstone block*, allium*, and peony*.
+
+DuckOfDuckness - Clock.
+
+David184 - Black Cat*.
+
+streak1 - Saddle.
+
+thaky - Lead, name tag*, lead knot, and horse armor items*.
+
+EnderSlayer317 - Tiled water.
+
+CraftPotato13 - Slime block*.
+
+Antoinounet - Raw rabbit*, cooked rabbit*, guardian*, and elder guardian*.
+
+LajhuPG - Raw mutton and cooked mutton.
+
+LuxiKeks - Rabbit foot* and armor stand item.
+
+DZCreeper - Rabbit hide.
+
+BrotherHolmes - Rabbit stew.
+
+creepit34 - Clay block.
+
+---Other Credits---
+
+NeraWoowty - Missing textures tool.
+
+Vattic - The original style and at least 40% of the pack.
