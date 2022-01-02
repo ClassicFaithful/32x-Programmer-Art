@@ -5,18 +5,16 @@ If you've made any of these textures already and think they are good tell us on 
 
 ------------------
 
-Missing: 88 out of 1959 ~ 95.5% done
+Missing: 86 out of 1959 ~ 95.6% done
 
 ------------------
 
 block/beetroots_stage3.png
 block/bone_block_side.png
 block/bone_block_top.png
-block/chiseled_nether_bricks.png
 block/chorus_flower.png
 block/chorus_flower_dead.png
 block/chorus_plant.png
-block/cracked_nether_bricks.png
 block/end_rod.png
 block/magma.png
 block/observer_back.png
