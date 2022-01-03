@@ -5,7 +5,7 @@ If you've made any of these textures already and think they are good tell us on 
 
 ------------------
 
-Missing: 86 out of 1959 ~ 95.6% done
+Missing: 85 out of 1959 ~ 95.65% done
 
 ------------------
 
@@ -22,7 +22,6 @@ block/observer_back_on.png
 block/observer_front.png
 block/observer_side.png
 block/observer_top.png
-block/powder_snow.png
 block/purpur_pillar.png
 block/purpur_pillar_top.png
 block/red_nether_bricks.png
