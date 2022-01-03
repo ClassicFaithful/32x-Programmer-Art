@@ -26,7 +26,7 @@ Adrien_Sama - Cross icon [realms], cross player icon [realms], and bad omen effe
 
 Harag0nMC - Desert zombie villager+, swamp zombie villager+, taiga zombie villager+, and jungle zombie villager+.
 
-Zeuselpro - Strider* and sculk sensor tendrils*.
+Zeuselpro - Pillager*, strider*, and sculk sensor tendrils*.
 
 ---These contributions weren't explicitly made for CF but I have permission to use them---
 
