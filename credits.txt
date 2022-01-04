@@ -6,7 +6,7 @@ All textures by Evorp or Vattic except the following:
 
 ---These contributions were made for the purposes of CF---
 
-ZapPack - Zombie*, skeleton*, stray base*, diamond block, gold block, melon+, stone fixes to all ores, smooth stone+, repeaters+, comparators+, and bedrock+ (and by extension end crystal), snow+, end stone bricks, nether wart block, slowness effect+, hunger effect+, absorption effect, levitation effect, crying obsidian* (and by extension respawn anchor), glowing effect, luck effect, unluck effect, health boost effect, beetroot seeds, beetroot soup*, instant damage effect, instant health effect, spectral arrow item, jump boost effect, invisibility effect*, warped fungus on a stick+, lava bucket+, and all command blocks.
+ZapPack - Zombie*, skeleton*, stray base*, diamond block, gold block, melon+, stone fixes to all ores, smooth stone+, repeaters+, comparators+, and bedrock+ (and by extension end crystal), snow+, end stone bricks, nether wart block, slowness effect+, hunger effect+, absorption effect, levitation effect, crying obsidian* (and by extension respawn anchor), glowing effect, chestplates+, luck effect, unluck effect, health boost effect, beetroot seeds, beetroot soup*, instant damage effect, instant health effect, spectral arrow item, jump boost effect, invisibility effect*, warped fungus on a stick+, lava bucket+, and all command blocks.
 
 Harag0nMC - Totem of undying* and all frosted ice stages.
 
