@@ -5,7 +5,7 @@ If you've made any of these textures already and think they are good tell us on 
 
 ------------------
 
-Missing: 79 out of 1959 ~ 95.96% done
+Missing: 78 out of 1959 ~ 95.01% done
 
 ------------------
 
@@ -86,6 +86,5 @@ gui/title/background/panorama_2.png
 gui/title/background/panorama_3.png
 gui/title/background/panorama_4.png
 gui/title/background/panorama_5.png
-item/end_crystal.png
 item/popped_chorus_fruit.png
 item/shulker_shell.png
