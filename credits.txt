@@ -10,6 +10,8 @@ ZapPack - Zombie*, skeleton*, stray base*, diamond block, gold block, melon+, st
 
 Harag0nMC - Totem of undying* and all frosted ice stages.
 
+pcblox39 - Popped chorus fruit*.
+
 Zeuselpro - Elytra*.
 
 ---These contributions were made for the Jappa pack (Classic Faithful 32x) but are reused here due to them not having a programmer art equivalent.
