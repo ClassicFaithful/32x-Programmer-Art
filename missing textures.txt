@@ -5,7 +5,7 @@ If you've made any of these textures already and think they are good tell us on 
 
 ------------------
 
-Missing: 73 out of 1959 ~ 95.26% done
+Missing: 72 out of 1959 ~ 95.31% done
 
 ------------------
 
@@ -82,4 +82,3 @@ gui/title/background/panorama_2.png
 gui/title/background/panorama_3.png
 gui/title/background/panorama_4.png
 gui/title/background/panorama_5.png
-item/shulker_shell.png
