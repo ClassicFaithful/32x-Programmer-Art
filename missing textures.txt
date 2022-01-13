@@ -5,7 +5,7 @@ If you've made any of these textures already and think they are good tell us on 
 
 ------------------
 
-Missing: 70 out of 1959 ~ 96.42% done
+Missing: 69 out of 1959 ~ 96.47% done
 
 ------------------
 
@@ -23,7 +23,6 @@ block/observer_side.png
 block/observer_top.png
 block/purpur_pillar.png
 block/purpur_pillar_top.png
-entity/bear/polarbear.png
 entity/bed/black.png
 entity/bed/blue.png
 entity/bed/brown.png
