@@ -5,7 +5,7 @@ Requirements:
 1: Give clear credit.
 
 2: Link back to the GitHub listing here:
-	https://github.com/classicfaithful/classic-faithful-32x-pa
+	https://github.com/classicfaithful/32x-programmer-art
 
 3: Ask on our discord above if you have a decent sized fanbase.
 
