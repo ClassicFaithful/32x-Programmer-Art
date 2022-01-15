@@ -5,11 +5,10 @@ If you've made any of these textures already and think they are good tell us on 
 
 ------------------
 
-Missing: 67 out of 1959 ~ 96.57% done
+Missing: 66 out of 1959 ~ 96.62% done
 
 ------------------
 
-block/beetroots_stage3.png
 block/bone_block_side.png
 block/bone_block_top.png
 block/chorus_flower.png
