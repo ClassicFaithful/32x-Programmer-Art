@@ -5,7 +5,7 @@ If you've made any of these textures already and think they are good tell us on 
 
 ------------------
 
-Missing: 66 out of 1959 ~ 96.62% done
+Missing: 65 out of 1959 ~ 96.68% done
 
 ------------------
 
@@ -60,7 +60,6 @@ entity/horse/horse_skeleton.png
 entity/horse/horse_white.png
 entity/horse/horse_zombie.png
 entity/horse/mule.png
-entity/illager/evoker_fangs.png
 entity/illager/illusioner.png
 entity/illager/vex.png
 entity/illager/vex_charging.png
