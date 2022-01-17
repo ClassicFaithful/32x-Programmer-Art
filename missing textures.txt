@@ -5,7 +5,7 @@ If you've made any of these textures already and think they are good tell us on 
 
 ------------------
 
-Missing: 65 out of 1959 ~ 96.68% done
+Missing: 64 out of 1959 ~ 96.73% done
 
 ------------------
 
@@ -44,7 +44,6 @@ entity/boat/dark_oak.png
 entity/boat/jungle.png
 entity/boat/oak.png
 entity/boat/spruce.png
-entity/elytra.png
 entity/horse/donkey.png
 entity/horse/horse_black.png
 entity/horse/horse_brown.png
