@@ -19,7 +19,6 @@ block/observer_side.png
 block/observer_top.png
 block/purpur_pillar.png
 block/purpur_pillar_top.png
-entity/bed/black.png
 entity/boat/acacia.png
 entity/boat/birch.png
 entity/boat/dark_oak.png
