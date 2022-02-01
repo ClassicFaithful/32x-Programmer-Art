@@ -5,13 +5,10 @@ If you've made any of these textures already and think they are good tell us on 
 
 ------------------
 
-Missing: 44 out of 1959 ~ 97.75% done
+Missing: 41 out of 1959 ~ 97.9% done
 
 ------------------
 
-block/chorus_flower.png
-block/chorus_flower_dead.png
-block/chorus_plant.png
 block/observer_back.png
 block/observer_back_on.png
 block/observer_front.png
