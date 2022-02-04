@@ -5,7 +5,7 @@ If you've made any of these textures already and think they are good tell us on 
 
 ------------------
 
-Missing: 41 out of 1959 ~ 97.9% done
+Missing: 40 out of 1959 ~ 97.95% done
 
 ------------------
 
@@ -44,7 +44,6 @@ entity/llama/creamy.png
 entity/llama/gray.png
 entity/llama/white.png
 entity/zombie/husk.png
-entity/zombie_villager/zombie_villager.png
 gui/title/background/panorama_0.png
 gui/title/background/panorama_1.png
 gui/title/background/panorama_2.png
