@@ -5,7 +5,7 @@ If you've made any of these textures already and think they are good tell us on 
 
 ------------------
 
-Missing: 40 out of 1959 ~ 97.95% done
+Missing: 36 out of 1959 ~ 98.16% done
 
 ------------------
 
@@ -29,10 +29,6 @@ entity/horse/horse_chestnut.png
 entity/horse/horse_creamy.png
 entity/horse/horse_darkbrown.png
 entity/horse/horse_gray.png
-entity/horse/horse_markings_blackdots.png
-entity/horse/horse_markings_white.png
-entity/horse/horse_markings_whitedots.png
-entity/horse/horse_markings_whitefield.png
 entity/horse/horse_skeleton.png
 entity/horse/horse_white.png
 entity/horse/horse_zombie.png
