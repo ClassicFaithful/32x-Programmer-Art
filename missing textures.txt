@@ -5,15 +5,13 @@ If you've made any of these textures already and think they are good tell us on 
 
 ------------------
 
-Missing: 36 out of 1959 ~ 98.16% done
+Missing: 34 out of 1959 ~ 98.26% done
 
 ------------------
 
 block/observer_back.png
 block/observer_back_on.png
 block/observer_front.png
-block/observer_side.png
-block/observer_top.png
 block/purpur_pillar.png
 block/purpur_pillar_top.png
 entity/boat/acacia.png
