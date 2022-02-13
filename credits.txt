@@ -14,7 +14,7 @@ pcblox39 - Popped chorus fruit* and shulker shell*.
 
 Zeuselpro - Elytra*.
 
----These contributions were made for the Jappa pack (Classic Faithful 32x) but are reused here due to them not having a programmer art equivalent.
+---These contributions were made for the Jappa pack (Classic Faithful 32x Jappa) but are reused here due to them not having a programmer art equivalent.
 
 ZapPack - Tropical fish item, raw salmon, raw cod, cooked cod, cooked salmon, pufferfish item, fish on cod, salmon, and tropical fish buckets, help with sign item recolors, sign models, hero of the village effect, wither rose*, stonecutter bottom, accessibility button*, hotbar offhand slot+, bars, iron nugget+, savanna zombie villager variant, checkbox, social interactions menu, recipe book UI+, beacon UI+, 1.14 villager UI, fixing a bunch of other UIs, wool+, advancement widgets+, netherite scrap, graham painting, gamemode switcher, axolotls*, tundra zombie villager+, blue dye, brown dye, and black dye.
 
@@ -27,6 +27,8 @@ pcblox39 - Stonecutter saw*, campfires* [item], bundle*, salmon mob*, all glazed
 Adrien_Sama - Cross icon [realms], cross player icon [realms], and bad omen effect*.
 
 Harag0nMC - Desert zombie villager+, swamp zombie villager+, taiga zombie villager+, and jungle zombie villager+.
+
+Saarlodrie_ - Skull and roses painting.
 
 Zeuselpro - Pillager*, strider*, and sculk sensor tendrils*.
 
