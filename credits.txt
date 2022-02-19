@@ -12,6 +12,8 @@ Harag0nMC - Totem of undying*, observer side* (and by extension the base of the 
 
 pcblox39 - Popped chorus fruit* and shulker shell*.
 
+mullak99 - Plank placement on the base of the boat.
+
 Zeuselpro - Elytra*.
 
 ---These contributions were made for the Jappa pack (Classic Faithful 32x Jappa) but are reused here due to them not having a programmer art equivalent.
