@@ -5,18 +5,14 @@ If you've made any of these textures already and think they are good tell us on 
 
 ------------------
 
-Missing: 31 out of 1959 ~ 98.41% done
+Missing: 27 out of 1959 ~ 98.62% done
 
 ------------------
 
 block/purpur_pillar.png
 block/purpur_pillar_top.png
 entity/boat/acacia.png
-entity/boat/birch.png
 entity/boat/dark_oak.png
-entity/boat/jungle.png
-entity/boat/oak.png
-entity/boat/spruce.png
 entity/horse/donkey.png
 entity/horse/horse_black.png
 entity/horse/horse_brown.png
