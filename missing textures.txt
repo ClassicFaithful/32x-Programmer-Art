@@ -1,11 +1,11 @@
-Credit to NeraWoowty for the missing textures tool:
-https://nerawoowty.github.io/
+Credit to mullak99 for the missing textures tool:
+https://mctools.mullak99.co.uk/textures
 
 If you've made any of these textures already and think they are good tell us on our discord at https://discord.gg/KSEhCVtg4J
 
 ------------------
 
-Missing: 25 out of 1959 ~ 98.72% done
+Missing: 21 out of 1959 ~ 98.92% done
 
 ------------------
 
@@ -24,10 +24,6 @@ entity/horse/horse_zombie.png
 entity/horse/mule.png
 entity/illager/vex.png
 entity/illager/vex_charging.png
-entity/llama/brown.png
-entity/llama/creamy.png
-entity/llama/gray.png
-entity/llama/white.png
 entity/zombie/husk.png
 gui/title/background/panorama_0.png
 gui/title/background/panorama_1.png
