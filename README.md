@@ -4,7 +4,7 @@ A double resolution texture pack that continues Vattic’s original Faithful 32x
 <img src="https://cdn.discordapp.com/attachments/814212967297318973/925833977477087332/CF_Banner_Blurred.png" align="center" height="256px">
 
 # How to actually get to the pack 
-## Important Note: Only version 1.18 is currently actively supported and actually have files in the branches, your GitHub is not broken and this is not a bug.
+## Important Note: Only versions 1.18 and 1.8 are currently actively supported and actually have files in the branches, your GitHub is not broken and this is not a bug.
 
 Find the version you are looking for, and from there follow the instructions below:
 
