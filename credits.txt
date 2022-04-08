@@ -38,7 +38,7 @@ Zeuselpro - Pillager*, strider*, and sculk sensor tendrils*.
 
 JogurciQ - Honey block, kelp plant, soul fire, trident model, campfire fire, seagrass, tall searass, and all sweet berry bush stages.
 
-KulenFlulen - Conduit wind, updating the horse reins and saddle to 1.13, and dried kelp.
+KulenFlulen - Conduit wind, updating the horse reins and saddle to 1.13, formatting the skeleton horse from Vattic's original*, and dried kelp.
 
 Compliance 32x - All banners, shield banners, ascii font, accented font, nonlatin european font, and rain.
 
