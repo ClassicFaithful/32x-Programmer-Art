@@ -16,6 +16,8 @@ mullak99 - Plank placement on the base of the boat.
 
 Zeuselpro - Elytra*.
 
+mullak99 - 1.18 panorama screenshots.
+
 ---These contributions were made for the Jappa pack (Classic Faithful 32x Jappa) but are reused here due to them not having a programmer art equivalent.
 
 ZapPack - Tropical fish item, raw salmon, raw cod, cooked cod, cooked salmon, pufferfish item, fish on cod, salmon, and tropical fish buckets, help with sign item recolors, sign models, hero of the village effect, wither rose*, stonecutter bottom, accessibility button*, hotbar offhand slot+, bars, iron nugget+, savanna zombie villager variant, checkbox, social interactions menu, recipe book UI+, beacon UI+, 1.14 villager UI, fixing a bunch of other UIs, wool+, advancement widgets+, netherite scrap, graham painting, gamemode switcher, axolotls*, tundra zombie villager+, blue dye, brown dye, and black dye.
