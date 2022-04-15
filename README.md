@@ -1,7 +1,7 @@
 # Classic Faithful 32x PA (Programmer Art)
 A double resolution texture pack that continues Vattic’s original Faithful 32x32 pack with the classic textures.
 
-<img src="https://cdn.discordapp.com/attachments/814212967297318973/925833977477087332/CF_Banner_Blurred.png" align="center" height="256px">
+<img src="https://database.faithfulpack.net/images/branding/social%20media/banners/pmc/cf32pa_banner.png" align="center" height="384px">
 
 # How to actually get to the pack 
 ## Important Note: Only versions 1.18 and 1.8 are currently actively supported and actually have files in the branches, your GitHub is not broken and this is not a bug.
