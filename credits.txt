@@ -6,7 +6,7 @@ All textures by Evorp or Vattic except the following:
 
 ---These contributions were made for the purposes of Classic Faithful---
 
-ZapPack - Zombie*, skeleton*, stray base*, diamond block, gold block, melon+, stone fixes to all ores, smooth stone+, repeaters+, comparators+, and bedrock+ (and by extension end crystal+), snow+, end stone bricks*, nether wart block*, slowness effect+, hunger effect+, absorption effect, levitation effect, crying obsidian* (and by extension respawn anchor*), glowing effect, chestplates+, luck effect, unluck effect, health boost effect, beetroot seeds, beetroot soup+, instant damage effect, instant health effect, spectral arrow item, jump boost effect, invisibility effect*, peony+, warped fungus on a stick+, lava bucket+, all beds, and all command blocks.
+ZapPack - Zombie*, skeleton*, stray base*, diamond block, gold block, melon+, stone fixes to all ores, smooth stone+, repeaters+, comparators+, and bedrock+ (and by extension end crystal+), snow+,  sign models, end stone bricks*, nether wart block*, slowness effect+, hunger effect+, absorption effect, levitation effect, crying obsidian* (and by extension respawn anchor*), glowing effect, chestplates+, luck effect, unluck effect, health boost effect, beetroot seeds, beetroot soup+, instant damage effect, instant health effect, spectral arrow item, jump boost effect, invisibility effect*, peony+, warped fungus on a stick+, lava bucket+, all beds, and all command blocks.
 
 Harag0nMC - Totem of undying*, observer side* (and by extension the base of the other observer textures), and all frosted ice stages.
 
@@ -22,7 +22,7 @@ TheOPWarrior208 - Fixed Minecraft title logo offset.
 
 ---These contributions were made for the Jappa pack (Classic Faithful 32x Jappa) but are reused here due to them not having a programmer art equivalent.
 
-ZapPack - Tropical fish item, raw salmon, raw cod, cooked cod, cooked salmon, pufferfish item, fish on cod, salmon, and tropical fish buckets, help with sign item recolors, sign models, hero of the village effect, wither rose*, stonecutter bottom, accessibility button*, hotbar offhand slot+, bars, iron nugget+, savanna zombie villager variant, checkbox, social interactions menu, recipe book UI+, beacon UI+, 1.14 villager UI, fixing a bunch of other UIs, wool+, advancement widgets+, netherite scrap, graham painting, gamemode switcher, axolotls*, tundra zombie villager+, blue dye, brown dye, and black dye.
+ZapPack - Tropical fish item, raw salmon, raw cod, cooked cod, cooked salmon, pufferfish item, fish on cod, salmon, and tropical fish buckets, help with sign item recolors, hero of the village effect, wither rose*, stonecutter bottom, accessibility button*, hotbar offhand slot+, bars, iron nugget+, savanna zombie villager variant, checkbox, social interactions menu, recipe book UI+, beacon UI+, 1.14 villager UI, fixing a bunch of other UIs, wool+, advancement widgets+, netherite scrap, graham painting, gamemode switcher, axolotls*, tundra zombie villager+, blue dye, brown dye, and black dye.
 
 FHLX - Blast furnace*, smoker*, all shulkers*, all campfire blocks except for the fire, and tundra zombie villager*.
 
