@@ -110,7 +110,7 @@ streak1 - Saddle.
 
 thaky - Lead, name tag*, lead knot, and horse armor items*.
 
-EnderSlayer317 - Tiled water.
+EnderSlayer317 - Tiled water*.
 
 CraftPotato13 - Slime block*.
 
@@ -128,6 +128,8 @@ creepit34 - Clay block.
 
 ---Other Credits---
 
-Ewan Howell - Help with OptiFine CTM.
+Ewan Howell - OptiFine CTM generator.
 
-Vattic - The original style and at least 40% of the pack.
+Minecraft@Home - The 1.18 panorama seed.
+
+Vattic - The founder and creator of the original Faithful 32x32 pack for Minecraft 1.8, which is the entire inspiration for this pack. Without him, this pack would have never existed, and by extension the entirety of Classic Faithful and even the broader Faithful community itself. Go show him some support over at https://www.gofundme.com/f/vattic-appreciation-fund, he really deserves it.
