@@ -14,7 +14,9 @@ pcblox39 - Popped chorus fruit* and shulker shell*.
 
 Zeuselpro - Elytra* and vex*.
 
-mullak99 - 1.18 panorama screenshots, 1.9-1.14 shield banners, coal ore+, and plank placement on the base of the boat*.
+mullak99 - 1.18 panorama screenshots, 1.9-1.14 shield banners, coal ore+, and plank placement on the base of the boat*.'
+
+Aerod - Tadpole bucket*.
 
 ghoulBlade - Tweaks to the Minecraft title logo.
 
@@ -33,6 +35,8 @@ pcblox39 - Stonecutter saw*, campfires* [item], bundle*, salmon mob*, all glazed
 Adrien_Sama - Cross icon [realms], cross player icon [realms], and bad omen effect*.
 
 Harag0nMC - Desert zombie villager+, swamp zombie villager+, taiga zombie villager+, and jungle zombie villager+.
+
+Aerod - Frogspawn* and tadpole*.
 
 Saarlodrie_ - Skull and roses painting.
 
