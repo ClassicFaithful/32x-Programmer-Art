@@ -52,7 +52,7 @@ KulenFlulen - Conduit wind, updating the horse reins and saddle to 1.13, formatt
 
 Compliance 32x - All banners, shield banners, ascii font, accented font, nonlatin european font, and rain.
 
-mullak99 - Deepslate coal ore*.
+mullak99 - Deepslate coal ore* and the chest used on the chest boat model*..
 
 ---Contributors under Vattic's time that have either textures or parts of textures in the pack---
 
