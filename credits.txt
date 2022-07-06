@@ -30,7 +30,7 @@ FHLX - Mangrove log+, blast furnace*, smoker*, all shulkers*, all campfire block
 
 Pythagoras_314 - Basalt side*, basalt top*, soul soil*, lantern+, netherite block*, light item 0+, honey bottle*, and chain model*.
 
-pcblox39 - Stonecutter saw*, campfires* [item], bundle*, salmon mob*, all glazed terracottas*, smithing table*, turtle egg block*, honeycomb block*, bamboo large leaves*, and bamboo stalk*.
+pcblox39 - Stonecutter saw*, campfires* [item], frogs+, bundle*, salmon mob*, all glazed terracottas*, smithing table*, turtle egg block*, honeycomb block*, bamboo large leaves*, and bamboo stalk*.
 
 Adrien_Sama - Cross icon [realms], cross player icon [realms], and bad omen effect*.
 
