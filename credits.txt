@@ -44,6 +44,8 @@ Zeuselpro - Pillager*, strider*, and sculk sensor tendrils*.
 
 TheOPWarrior208 - Mangrove root side* (and by extension parts of the muddy version), and allay*.
 
+Lillie - Mangrove trapdoor*.
+
 ---These contributions weren't explicitly made for Classic Faithful but I have permission to use them---
 
 JogurciQ - Honey block, kelp plant, soul fire, trident model, campfire fire, seagrass, tall searass, and all sweet berry bush stages.
