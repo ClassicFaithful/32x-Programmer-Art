@@ -4,7 +4,7 @@ All textures by Evorp or Vattic except the following:
 
 + = this texture was tweaked by this person to look better, but it does have a base model by somebody else.
 
----These contributions were made for the purposes of Classic Faithful---
+---These contributions were made for the purposes of Classic Faithful 32x PA---
 
 ZapPack - Zombie*, skeleton*, stray base*, diamond block, gold block, melon+, stone fixes to all ores, smooth stone+, repeaters+, comparators+, and bedrock+ (and by extension end crystal+), snow+,  sign models, help with sign item recolors, nether wart block*, slowness effect+, hunger effect+, absorption effect, levitation effect, crying obsidian* (and by extension respawn anchor*), glowing effect, chestplates+, luck effect, unluck effect, health boost effect, beetroot seeds, beetroot soup+, instant damage effect, instant health effect, spectral arrow item, jump boost effect, invisibility effect*, peony+, warped fungus on a stick+, lava bucket+, all beds, and all command blocks.
 
@@ -36,13 +36,13 @@ Adrien_Sama - Cross icon [realms], cross player icon [realms], and bad omen effe
 
 Harag0nMC - Sculk vein*, desert zombie villager+, swamp zombie villager+, taiga zombie villager+, and jungle zombie villager+.
 
-Aerod - Frogspawn* and tadpole*.
-
-Saarlodrie_ - Skull and roses painting.
+TheOPWarrior208 - Mangrove root side* (and by extension parts of the muddy version), turtle egg fixes [block], and allay*.
 
 Zeuselpro - Pillager*, strider*, and sculk sensor tendrils*.
 
-TheOPWarrior208 - Mangrove root side* (and by extension parts of the muddy version), and allay*.
+Aerod - Frogspawn* and tadpole*.
+
+Saarlodrie_ - Skull and roses painting.
 
 Lillie - Mangrove trapdoor*.
 
