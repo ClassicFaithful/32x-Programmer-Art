@@ -44,7 +44,7 @@ Aerod - Frogspawn* and tadpole*.
 
 Saarlodrie_ - Skull and roses painting.
 
-Lillie - Mangrove trapdoor*.
+Lillie - Mangrove trapdoor*, and mangrove door [block]*.
 
 ---These contributions weren't explicitly made for Classic Faithful but I have permission to use them---
 
