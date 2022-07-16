@@ -56,8 +56,6 @@ Compliance 32x - All banners, shield banners, ascii font, accented font, nonlati
 
 mullak99 - Deepslate coal ore* and the chest used on the chest boat model*..
 
-Pomi108 - 1.19 panorama world.
-
 ---Contributors under Vattic's time that have either textures or parts of textures in the pack---
 
 * = this texture was modified by Vattic, but in its original form it resembles the current texture
@@ -141,6 +139,8 @@ creepit34 - Clay block.
 Ewan Howell - OptiFine CTM generator.
 
 Minecraft@Home - The 1.18 and 1.19 panorama seeds.
+
+Pomi108 - 1.19 panorama world generation, 1.16 panorama world.
 
 Nyodex - Backporting the pack to versions 1.11-1.17.
 
