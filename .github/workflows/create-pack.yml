@@ -4,6 +4,7 @@ on:
     branches-ignore:
       - master
       - main
+concurrency: classic_faithful_32x_java_programmer_art
 jobs:
   build:
     runs-on: ubuntu-latest
