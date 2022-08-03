@@ -4,6 +4,7 @@ on:
     branches-ignore:
       - master
       - main
+concurrency: classic_faithful_32x_java_programmer_art
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -23,6 +24,8 @@ jobs:
         KEY: ${{ secrets.SSH }}
         script: |
           cd "./packs/Classic-Faithful-32x-Prog-Art"
+          git stash
+          git stash drop
           git checkout ${{ steps.branch-name.outputs.current_branch }}
           git pull
           zip -r "Classic Faithful 32x Programmer Art - ${{ steps.branch-name.outputs.current_branch }}.zip" . -x "*.git*" -x "*.github*" -x ".gitignore"
