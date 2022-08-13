@@ -52,7 +52,9 @@ JogurciQ - Honey block, kelp plant, soul fire, trident model, campfire fire, sea
 
 KulenFlulen - Conduit wind, updating the horse reins and saddle to 1.13, formatting the skeleton horse from Vattic's original*, and dried kelp.
 
-Compliance 32x - All banners, shield banners, ascii font, accented font, nonlatin european font, and rain.
+Faithful 32x - All banners, shield banners, ascii font, accented font, nonlatin european font.
+
+Fred figglehorn - Rain effect.
 
 mullak99 - Deepslate coal ore* and the chest used on the chest boat model*..
 
@@ -66,7 +68,7 @@ GenuineSounds - Fishing hook and hearts.
 
 Justin8 - Lily pad, and font*.
 
-Sword_Frog - Sandstone bottom, birch log*, spruce sapling, and dead bush.
+Sword_Frog - Sandstone bottom, birch log*, spruce sapling*, and dead bush*.
 
 CrazyErik - Map background.
 
@@ -76,7 +78,7 @@ labtec901 - Pack.png background.
 
 DarKKn1ghT111 - Minecraft logo*.
 
-Affinite - Iron bars.
+Affinite - Iron bars*.
 
 Snowshoe - Snow golem*.
 
@@ -90,7 +92,7 @@ carlotta4th - Beacon GUI* and the survival inventory GUI*.
 
 TheHalaran - Emerald Block*, XP bar, and boss bars.
 
-Arionwt1997 - Emerald item.
+Arionwt1997 - Emerald item*.
 
 some1insweden - Fire charge*.
 
@@ -128,7 +130,7 @@ LajhuPG - Raw mutton and cooked mutton.
 
 LuxiKeks - Rabbit foot* and armor stand item.
 
-DZCreeper - Rabbit hide.
+DZCreeper - Rabbit hide*.
 
 BrotherHolmes - Rabbit stew.
 
