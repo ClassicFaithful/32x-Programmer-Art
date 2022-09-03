@@ -1,6 +1,6 @@
 All textures by Evorp or Vattic except the following:
 
-* = this texture was modified by me, but in its original form it resembles the current texture.
+* = this texture was modified (if not specified otherwise, by Evorp), but in its original form it resembles the current texture.
 
 + = this texture was tweaked by this person to look better, but it does have a base model by somebody else.
 
@@ -22,7 +22,7 @@ ghoulBlade - Tweaks to the Minecraft title logo.
 
 TheOPWarrior208 - Fixed Minecraft title logo offset.
 
----These contributions were made for Classic Faithful 32x Jappa but are reused here due to them not having a programmer art equivalent.
+---These contributions were made for Classic Faithful 32x Jappa but are reused here due to them not having a programmer art equivalent---
 
 ZapPack - Tropical fish item, raw salmon, raw cod, cooked cod, cooked salmon, pufferfish item, fish on cod, salmon, and tropical fish buckets, hero of the village effect, wither rose*, stonecutter bottom, accessibility button*, hotbar offhand slot+, bars, iron nugget+, savanna zombie villager variant, checkbox, social interactions menu, recipe book UI+, beacon UI+, 1.14 villager UI, fixing a bunch of other UIs, wool+, advancement widgets+, netherite scrap, graham painting, gamemode switcher, axolotls*, tundra zombie villager+, pumpkin blur, blue dye, brown dye, and black dye.
 
@@ -32,7 +32,7 @@ Pythagoras_314 - Basalt side*, basalt top*, soul soil*, lantern+, netherite bloc
 
 pcblox39 - Stonecutter saw*, campfires* [item], frogs+, bundle*, salmon mob*, all glazed terracottas*, smithing table*, turtle egg block*, honeycomb block*, bamboo large leaves*, and bamboo stalk*.
 
-Adrien_Sama - Cross icon [realms], cross player icon [realms], and bad omen effect*.
+Adrien_Sama - Bad omen effect*.
 
 Harag0nMC - Sculk vein*, desert zombie villager+, swamp zombie villager+, taiga zombie villager+, and jungle zombie villager+.
 
@@ -46,7 +46,7 @@ Saarlodrie_ - Skull and roses painting.
 
 Lillie - Mangrove trapdoor*, and mangrove door [block]*.
 
----These contributions weren't explicitly made for Classic Faithful but I have permission to use them---
+---These contributions weren't explicitly made for Classic Faithful but we have permission to use them---
 
 JogurciQ - Honey block, kelp plant, soul fire, trident model, campfire fire, seagrass, tall searass, and all sweet berry bush stages.
 
