@@ -8,7 +8,7 @@ All textures by Evorp or Vattic except the following:
 
 ZapPack - Zombie*, skeleton*, stray base*, diamond block, gold block, melon+, stone fixes to all ores, smooth stone+, repeaters+, comparators+, and bedrock+ (and by extension end crystal+), snow+,  sign models, help with sign item recolors, nether wart block*, slowness effect+, hunger effect+, absorption effect, levitation effect, crying obsidian* (and by extension respawn anchor*), glowing effect, chestplates+, luck effect, unluck effect, health boost effect, beetroot seeds, beetroot soup+, instant damage effect, instant health effect, spectral arrow item, jump boost effect, invisibility effect*, peony+, warped fungus on a stick+, lava bucket+, all beds, and all command blocks.
 
-Harag0nMC - Totem of undying*, observer side* (and by extension the base of the other observer textures), and all frosted ice stages.
+HARYA_ - Totem of undying*, observer side* (and by extension the base of the other observer textures), and all frosted ice stages.
 
 pcblox39 - Popped chorus fruit* and shulker shell*.
 
@@ -34,7 +34,7 @@ pcblox39 - Stonecutter saw*, campfires* [item], frogs+, bundle*, salmon mob*, al
 
 Adrien_Sama - Bad omen effect*.
 
-Harag0nMC - Sculk vein*, desert zombie villager+, swamp zombie villager+, taiga zombie villager+, and jungle zombie villager+.
+HARYA_ - Sculk vein*, desert zombie villager+, swamp zombie villager+, taiga zombie villager+, and jungle zombie villager+.
 
 TheOPWarrior208 - Mangrove root side* (and by extension parts of the muddy version), turtle egg fixes [block], and allay*.
 
