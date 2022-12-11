@@ -22,8 +22,6 @@ ghoulBlade - Tweaks to the Minecraft title logo.
 
 TheOPWarrior208 - Fixed Minecraft title logo offset.
 
-
-
 ---These contributions were made for Classic Faithful 32x Jappa but are reused here due to them not having a programmer art equivalent---
 
 ZapPack - Tropical fish item, raw salmon, raw cod, cooked cod, cooked salmon, pufferfish item, fish on cod, salmon, and tropical fish buckets, hero of the village effect, wither rose*, stonecutter bottom, accessibility button*, hotbar offhand slot+, bars, iron nugget+, savanna zombie villager variant, checkbox, social interactions menu, recipe book UI+, beacon UI+, 1.14 villager UI, fixing a bunch of other UIs, wool+, advancement widgets+, netherite scrap, graham painting, gamemode switcher, axolotls*, tundra zombie villager+, pumpkin blur, blue dye, brown dye, and black dye.
@@ -36,7 +34,7 @@ Adrien_Sama - Bad omen effect*.
 
 HARYA_ - Sculk vein*, desert zombie villager+, swamp zombie villager+, taiga zombie villager+, and jungle zombie villager+.
 
-TheOPWarrior208 - Mangrove root side* (and by extension parts of the muddy version), turtle egg fixes [block], and allay*.
+TheOPWarrior208 - Mangrove root side* (and by extension parts of the muddy version), turtle egg fixes [block], kelp+, and allay*.
 
 Zeuselpro - Pillager*, strider*, powder snow+, and sculk sensor tendrils*.
 
@@ -44,7 +42,7 @@ Aerod - Frogspawn* and tadpole*.
 
 Saarlodrie_ - Skull and roses painting.
 
-Lillie - Mangrove trapdoor*, scaffolding top+, bamboo planks (and by extension stripped bamboo block), stripped bamboo block (side and top), bamboo mosaic, bamboo door [block]*, bamboo fence, bamboo fence gate, bamboo trapdoor, mangrove door [block]*, vex*, and vex charging*
+Lillie - Mangrove trapdoor*, scaffolding top+, bamboo planks, stripped bamboo block, bamboo mosaic, bamboo door [block]*, bamboo fence, bamboo fence gate, bamboo trapdoor, mangrove door [block]*, vex*, and vex charging*
 
 ---These contributions weren't explicitly made for Classic Faithful but we have permission to use them---
 
@@ -70,7 +68,7 @@ Zeuselpro - Camera block*.
 
 ZapPack - Backup Replace UI+.
 
-IronDuke - Bookmark and star.
+IronDuke - Bookmark UI and star UI.
 
 the random who owns a pug - Sword UI+.
 
