@@ -42,7 +42,7 @@ Aerod - Frogspawn* and tadpole*.
 
 Saarlodrie_ - Skull and roses painting.
 
-Lillie - Mangrove trapdoor*, scaffolding top+, bamboo planks, stripped bamboo block, bamboo mosaic, bamboo door [block]*, bamboo fence, bamboo fence gate, bamboo trapdoor, mangrove door [block]*, vex*, and vex charging*
+Lillie - Mangrove trapdoor*, scaffolding top+, bamboo planks, stripped bamboo block, bamboo mosaic, bamboo door [block]*, bamboo fence, bamboo fence gate, bamboo trapdoor, mangrove door [block]*, vex*, and vex charging*.
 
 ---These contributions weren't explicitly made for Classic Faithful but we have permission to use them---
 
