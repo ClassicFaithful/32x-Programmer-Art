@@ -9,7 +9,7 @@ Find the version you are looking for, and from there follow the instructions bel
 
 <img src="https://user-images.githubusercontent.com/75297863/163904169-6ab97237-946c-4cf2-be60-3909a464d308.png" align="center" height="512px">
 
-#### The `java-latest` branch is always updated to the latest Minecraft version, including snapshots/pre-releases/release candidates. It's meant for easier development, so unless you know what you're doing, just use a properly numbered branch.
+The `java-latest` branch is always updated to the latest Minecraft version, including snapshots/pre-releases/release candidates. It's meant for easier development, so unless you know what you're doing, just use a properly numbered branch.
 
 # How to Download (After going to a supported branch)
 
