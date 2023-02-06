@@ -36,7 +36,7 @@ HARYA_ - Sculk vein*, desert zombie villager+, swamp zombie villager+, taiga zom
 
 TheOPWarrior208 - Mangrove root side* (and by extension parts of the muddy version), turtle egg fixes [block], kelp [block]+, and allay*.
 
-Zeuselpro - Pillager*, strider*, powder snow+.
+Zeuselpro - Pillager*, strider*, and powder snow+.
 
 Aerod - Frogspawn* and tadpole*.
 
